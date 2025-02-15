@@ -13,7 +13,7 @@ body {
   }
 
   p {
-    height: 30px;
+    transform: scaleX(-50%);
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(234, 161, 191);
     font-size: 2px;
