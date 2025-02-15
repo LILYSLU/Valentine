@@ -4,6 +4,20 @@ body {
     background-color: pink;
     overflow: hidden;
   }
+
+  h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 130px;
+    height: -10px
+  }
+
+  p {
+    height: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(234, 161, 191);
+    font-size: 2px;
+  }
   
   span {
     background: url("https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_54-512.png");
